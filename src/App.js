@@ -7,6 +7,8 @@ function App() {
     keyframes: [
       { background: "red", transform: "translateX(0vw)" },
       { background: "blue" },
+      { background: "purple" },
+      { background: "black" },
       { background: "green", transform: "translateX(90vw)" },
     ],
     timing: {
